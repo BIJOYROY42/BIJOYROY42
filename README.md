@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BIJOYROY42
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on large language models
 - 📫 How to reach me mostly github
 
